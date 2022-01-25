@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 07 - Key (Lukyanov)</string>
+    <string name="label_key">Key</string>
+    <string name="label_value">Value</string>
+    <string name="btn_insert">INSERT</string>
+    <string name="btn_replace">UPDATE</string>
+    <string name="btn_select">SELECT</string>
+    <string name="btn_delete">DELETE</string>
+</resources>
