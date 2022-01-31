@@ -6,4 +6,7 @@
     <string name="btn_replace">UPDATE</string>
     <string name="btn_select">SELECT</string>
     <string name="btn_delete">DELETE</string>
+    <string name="label_delete">Are you sure?</string>
+    <string name="btn_yes">YES</string>
+    <string name="btn_no">NO</string>
 </resources>
